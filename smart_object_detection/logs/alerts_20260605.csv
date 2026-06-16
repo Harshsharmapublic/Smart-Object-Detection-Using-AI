@@ -1,0 +1,4 @@
+Timestamp,Event,Tracking_ID,Confidence
+2026-06-05 10:10:22,Person entered restricted zone,417,0.90
+2026-06-05 10:11:31,Entry: object crossed counting line,425,0.99
+2026-06-05 10:11:31,Exit: object crossed counting line,425,0.99
